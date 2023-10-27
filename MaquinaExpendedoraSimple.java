@@ -69,6 +69,6 @@ public class MaquinaExpendedoraSimple {
         balanceClienteActual = 0;
     }
     public int getTotalDineroAcumulado(){
-        return balanceClienteActual;
+        return totalDineroAcumulado;
     }
 }
