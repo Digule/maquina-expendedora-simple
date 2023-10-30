@@ -30,6 +30,11 @@ public class MaquinaExpendedoraSimple {
         estacionDestino = destino;
     }
     
+    public void setPrecioBillete(int precioCambiado){
+        precioBillete= precioCambiado;
+        
+   }
+    
     /**
      * Devuelve el precio del billete
      */
